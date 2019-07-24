@@ -7,4 +7,4 @@ need O(n) time for some of these operations.
 - A vector like interface, with an iterator has been given to the List.
 - The module follows object-oriented structure and has been thoroughly tested on a variety of test cases.
 
-Team Size : 2
+Team Size : 2 (Samarth Singhal, Pratyush Goel)
